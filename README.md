@@ -1,4 +1,4 @@
-# Skin Cancer Classification using HAM10000 Dataset 🧴🧬
+# Skin Cancer Classification using HAM10000 Dataset🧬
 
 This project leverages deep learning (CNNs) to classify skin lesions using the **HAM10000** dataset. It aims to assist in the early detection of skin cancer by identifying various types of skin lesions from dermatoscopic images.
 
